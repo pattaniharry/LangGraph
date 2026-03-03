@@ -1,0 +1,23 @@
+Agentic Ai is a type of AI that can take up a task or goal
+from a user and then work towards completing it on
+its own, with minimal human guidance
+
+It plans , takes action, adapts to chagnes, and seeks
+help only when necessary.
+
+ KEY CHARACTERISTICS 
+
+ 1. autonomous 
+ 2. Goal oriented 
+ 3. Planning 
+ 4. Reasoning 
+ 5. Adaptability 
+ 6. Context Awareness 
+
+  
+COMPONENTS
+1. Brain
+2. Orchestrator
+3. Tools
+4. Memory 
+5. Supervisor 
