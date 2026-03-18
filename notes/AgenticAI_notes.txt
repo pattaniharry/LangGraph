@@ -21,3 +21,13 @@ COMPONENTS
 3. Tools
 4. Memory 
 5. Supervisor 
+
+
+
+Prompts 
+
+prompt is actually used for Reusability
+
+Reusability gives Consistency , Modularity , Faster Development 
+Easy Updates , Works with chains (LCEL)
+
