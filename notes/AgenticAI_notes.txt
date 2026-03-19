@@ -31,3 +31,12 @@ prompt is actually used for Reusability
 Reusability gives Consistency , Modularity , Faster Development 
 Easy Updates , Works with chains (LCEL)
 
+
+Tool 
+
+Tool is basically a wrapper around a function with 
+metadata + schema + LLM compatibility
+
+simplest way to create a tool is with the @tool decorator 
+
+
